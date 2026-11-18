@@ -125,8 +125,8 @@ Even post-sale rating and delivery days carry almost no signal.
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/<your-username>/<your-repo-name>.git
-cd <your-repo-name>
+git clone https://github.com/<my-username>/<my-repo-name>.git
+cd <my-repo-name>
 ```
 
 ### 2. Install dependencies
